@@ -5,6 +5,7 @@ import { setupCounter } from './counter.js'
   
 
 // main.js
+//gggggggggggggg
 
 
 document.querySelector('#app').innerHTML = `
